@@ -6,3 +6,4 @@ Check my personal webpage for more details: https://stevenshinechen.github.io
 
 - https://www.linkedin.com/in/stevenshinechen/
 - https://x.com/stevenshinechen
+- [Google Scholar](https://scholar.google.com/citations?user=e7QLiCAAAAAJ&hl=en)
